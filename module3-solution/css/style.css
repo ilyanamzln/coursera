@@ -1,0 +1,57 @@
+body {
+  /* padding: 10px; */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  margin: 30px;
+  font-weight: bold;
+}
+
+.content {
+  background-color: #dcdcdc;
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+  /* height: 1000px;
+  overflow: auto; */
+}
+
+.dummy-text {
+  margin-top: 10px;
+}
+
+.navbar button.navbar-toggler {
+  display: block;
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .navbar button.navbar-toggler {
+    display: none;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .navbar button.navbar-toggler {
+    display: none;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .navbar button.navbar-toggler {
+    display: none;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .navbar button.navbar-toggler {
+    display: none;
+  }
+}
