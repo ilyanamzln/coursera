@@ -1,2 +1,2 @@
-# module2-solution
-Coursera Module 2 Coding Assignment
+# module3-solution
+Coursera Module 3 Coding Assignment
